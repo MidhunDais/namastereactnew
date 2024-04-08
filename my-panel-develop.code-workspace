@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/my-panel-develop"
+		},
+		{
+			"path": "D:/Vue"
+		},
+		{
+			"path": "D:/Vue/dev-vue"
+		},
+		{
+			"path": "../../Downloads/christy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Vue"
+	}
+}
